@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Satisfaction concerning mixt Communions: in answer to the doubts of some, who abstain from the sacrament of the Lords Supper; because wicked persons are present.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94213</idno>
+            <idno type="STC">Wing S726</idno>
+            <idno type="STC">Thomason E59_16</idno>
+            <idno type="STC">ESTC R23250</idno>
+            <idno type="EEBO-CITATION">99871943</idno>
+            <idno type="PROQUEST">99871943</idno>
+            <idno type="VID">155292</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155292)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E59[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Satisfaction concerning mixt Communions: in answer to the doubts of some, who abstain from the sacrament of the Lords Supper; because wicked persons are present.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Raworth for Samuel Gellibrand, and are to be sold at his Shop in Pauls Church-yard, at the Brazen Serpent,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643. July 8.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Close and open communion --  Early works to 1800.</term>
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155292:1" rendition="simple:additions"/>
+            <p>SATISFACTION <hi>CONCERNING</hi> Mixt Communions: In Anſwer to the Doubts of <hi>ſome, who abſtain from the</hi> SACRAMENT OF The Lords Supper; BECAUSE Wicked perſons are preſent.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="approbation">
+                        <p>
+                           <hi>I</hi> Approve this Book, intituled <hi>Satisfaction concerning mixt Communions,</hi> as ſound in doctrine, and profitable in uſe for theſe times.</p>
+                        <closer>
+                           <signed>Iohn Downame.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON Printed by <hi>John Raworth</hi> for <hi>Samuel Gellibrand,</hi> and are to be ſold at his Shop in Pauls Church-yard, at the Brazen Serpent. 1643. <hi>July</hi> 8.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155292:2"/>
+            <pb n="1" facs="tcp:155292:2"/>
+            <head>Satisfaction concerning Mixt <hi>COMM<g ref="char:V">Ʋ</g>NIONS.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I proceed to anſwer your Doubts, I muſt premiſe a word or two, that I be not miſtaken, and ſuppoſed to main<g ref="char:EOLhyphen"/>tain that which I oppoſe. 1. I ſay not that wicked perſons ought to come. 2. Nor, that they ought not to be kept away: For in this I agree with you, that they ought not to come (unfit) though they might be admitted; neither ought they to be admitted (by thoſe who have power to keep them away) though they would dare to come. 3. But I ſay, their undue coming, is no ſuf<g ref="char:EOLhyphen"/>ficient ground for me or you to keep away.</p>
+            <p>Again, I propoſe it to be well conſidered; <hi>That the Omiſsion of an undoubted Dutie, is not excuſed by my miſ<g ref="char:EOLhyphen"/>take concerning ſome circumſtances.</hi> And therefore, the Celebration and Participation of the Lords Supper being undeniably my Dutie, which I may not de<g ref="char:EOLhyphen"/>cline (at leaſt, conſtantly, or even for any long time) without a juſt impediment: It is not a ſufficient
+<pb n="2" facs="tcp:155292:3"/>excuſe for Omiſſion, that I think my ſelf bound in Conſcience to abſtain, becauſe of ſuch an Impedi<g ref="char:EOLhyphen"/>ment, unleſſe that Impediment be really ſufficient. For it is not a <hi>Suppoſed</hi> Impediment, but a <hi>Reall</hi> Impe<g ref="char:EOLhyphen"/>diment, that will warrant my Omitting a Duty com<g ref="char:EOLhyphen"/>manded. <hi>Uzzah,</hi> no queſtion, thought himſelf bound in Conſcience to ſtay the <hi>Ark,</hi> rather then to let it fall: But yet his thinking himſelf bound in Conſcience, did neither excuſe the <hi>Action</hi> from be<g ref="char:EOLhyphen"/>ing a <hi>Sin,</hi> nor the <hi>Perſon</hi> from being <hi>Puniſhed.</hi> The like muſt be ſaid, in caſe a man ſhould abſtain from Prayer, from Hearing, from Confeſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing his Sins to God, from Humiliation for ſins, from Sanctifying the Lords Day, or the like, becauſe he thinks himſelf bound in conſcience not to do it (as ſuppoſe, he think himſelf bound in Conſcience not to hear ſuch a Miniſter, whom he conceives to be a wicked man, and therefore rather then hear him, he will never come to Church at all; or that he think himſelf bound in Conſcience not to Pray daily, but onely as the Spirit moves; that he ought not confeſſe his Sins, or be humbled for them, becauſe he thinks there is no uſe of ſuch Duties in the time of the Goſpel; or the like:) I ſay, his thinking himſelf bound in Con<g ref="char:EOLhyphen"/>ſcience not to perform ſuch Duties, doth not make theſe ceaſe to be Duties, nor excuſe his Omiſſion of them. For if my Conſcience be in an Errour in ſo judging, it is a Sin in me to Omit the Duty, whether I think it ſo or no. <hi>Ignorantia juris non excuſat;</hi> Igno<g ref="char:EOLhyphen"/>rance doth not abſolve from Dutie. This I propoſe, becauſe people are ſo apt to be ſatisfied preſently in abſtaining from the Sacrament, if they can ſay, They
+<pb n="3" facs="tcp:155292:3"/>think themſelves bound in Conſcience not to come, (for ſuch and ſuch reaſons) as if they were then out of all danger of ſinning in ſtaying away, and bound in Conſcience ſo to do; And never conſider in the mean time, that, if their Conſcience be in an Errour, they ſin notwithſtanding. For it is not <hi>my Opinion,</hi> (or what I think my ſelf in Conſcience bound to) but <hi>the Truth of the thing,</hi> that makes an Action Law<g ref="char:EOLhyphen"/>full or Sinfull. And therefore, though I think my ſelf bound in conſcience to ſtay away, yet (if I think amiſſe) I ſin in ſo doing. This being premiſed, I proceed to anſwer your Doubts.</p>
+            <p>
+               <hi>We may not,</hi> you ſay, <hi>Communicate at the Lords Table, with profane perſons.</hi> Your reaſons. 1. <hi>They diſcern not the Lords Body.</hi> 2. <hi>Nor have right to it.</hi> 3. <hi>It's a Spirituall Banquet onely for the Saints.</hi> 4. <hi>Chriſt ſaid, It is not meet to take the Childrens Bread and give it to Dogs.</hi> Anſwer. All this concludes well, that Pro<g ref="char:EOLhyphen"/>fane perſons ought not to come; or if they do come, they ought not to be admitted, by them that have power to keep them away; But it doth not prove, that another private perſon, in ſuch a caſe, ought not to receive. <hi>They diſcern not the Lords Body.</hi> What then? Therefore they ought not to come. True; But ought not I to come neither? Muſt not I par<g ref="char:EOLhyphen"/>take of the LORDS Table, becauſe another diſcerns not the Lords Body? <hi>They have no right to it.</hi> True; And therefore ought not to intrude. We grant it. But becauſe another hath no right, may not I challenge mine? <hi>It's a Spirituall Ban<g ref="char:EOLhyphen"/>quet onely for Saints.</hi> True; But what follows? Therefore the wicked ſhould be kept away. I grant
+<pb n="4" facs="tcp:155292:4"/>it; But in caſe I cannot keep Them away, muſt I ſtay away my ſelf? <hi>It is not meet to give the Childrens Bread to Dogs.</hi> True; (though doubtleſſe Chriſt, when he ſpake it, never intended to reſtrain that ſpeech to the caſe of receiving the Sacrament) and therefore the Dogs ought to be kept away: But in caſe the Dogs be not ſhut out of the room, but catch a piece, muſt the Children therefore leave their Bread? If Dogs be ſuffered to ſnatch ſome of the Childrens Bread, yet the Children muſt not leave their parts and run from the Table; much leſſe for<g ref="char:EOLhyphen"/>bear to come to their meat, becauſe there be ſome Dogs in the room who will catch a part, or ſome will be given them. The Arguments conclude well, That profane perſons, if known, ought to be kept from it, by thoſe that have authority: Which if the people ſhould have together (which I do not now diſpute) yet certainly, not every private man (or woman much leſſe) alone. The ſin of their Admiſ<g ref="char:EOLhyphen"/>ſion is theirs, and onely theirs, who have authority, if they know them ſuch; or theirs who can prove them ſuch, and do not: which is hard to do, though one be certain of it in his own minde: Even Autho<g ref="char:EOLhyphen"/>rity muſt not cenſure without juſt proof. This then is nothing to private perſons; who are no otherwiſe guilty of the neglect of <hi>Eccleſiaſticall</hi> Authority, omitting to <hi>Cenſure,</hi> then they may be guilty of the neglect of <hi>Civill</hi> authority omitting to <hi>Puniſh;</hi> and yet none hold themſelves bound to depart out of <hi>Civill</hi> Society, meerly becauſe ſome evil doers are not duly puniſhed: No not a <hi>Juſtice of Peace</hi> to go off the Bench, becauſe ſome of his fellow-Juſtices are cor<g ref="char:EOLhyphen"/>rupt.</p>
+            <pb n="5" facs="tcp:155292:4"/>
+            <p>Beſides, the buſineſſe is firſt to worſhip God and Chriſt, and to remember and ſhew forth his Death. How dare I forbear this, when his Children are met to do it, becauſe ſome others thruſt themſelves in, who pretend to worſhip him too? and joyn rather with me (though unwarrantably, in regard of their ſinfulneſſe) then I with them. Mark this differ<g ref="char:EOLhyphen"/>ence, it is very materiall. You ſay, and ſay truly, <hi>That the Sacrament is a ſpirituall Banket only for Saints,</hi> that is, Chriſt will only bid them welcome. I ſay it alſo. And the Saints honouring of Chriſt ſo at the time appointed, I and you (as Saints) are called by Chriſt, and cannot anſwer it, if we come not, not ha<g ref="char:EOLhyphen"/>ving ſome outward hinderance, and that more then <hi>ſuppoſed</hi> too. It is our Buſineſſe, our Homage, our Banquet; If now others, that have no right to it, thruſt in (as Satan among the ſons of God, <hi>Job</hi> 1. &amp; 2 who did not therefore run away) they joyn with me, I joyn not with them. I deſire not their company, (as ſuch) I approve of none of their ſins, nor joyn in any of them. If S. <hi>Paul,</hi> though it were againſt himſelf, rejoyced that Chriſt was preached; not that it was not ſin in them to do it out of envie and ſtrife, ſuppoſing to adde affliction to his Bonds: So, that God is worſhipped, is a matter of joy, though their failings, which do it amiſſe, be ſinfull. There is ſome Honour to Chriſt in the publike profeſſion of his Death, by thoſe who yet ſin grievouſly in the man<g ref="char:EOLhyphen"/>ner of performance; yea what greater ſin, then to malice the Apoſtle in Bonds for the Goſpel? If then they outwardly profeſſe Chriſt, though not to their own good, yet is it ſo much comfort at leaſt, that
+<pb n="6" facs="tcp:155292:5"/>they bear outward witneſſe, that Chriſts ſervants muſt do as we do; and ſo pretending (though falſly, to their own hurt onely) themſelves to be ſuch, and come to do ſo too, theſe joyn with me then, not I with them; they profeſſe to joyn in that true Ser<g ref="char:EOLhyphen"/>vice to God that I perform; I do not profeſſe (but diſ<g ref="char:EOLhyphen"/>claim) to joyn in that ſinfulneſſe which they bring. They ſhould not do it, if I had authority: Now I can but be ſorry for them, and pray.</p>
+            <p>But you offer to prove, that <hi>theſe perſons do defile the Communion of Saints.</hi> 1. <hi>By the example of Achan.</hi> 2. <hi>That Ordinance is a joynt act, We being many are one Bread,</hi> 1 Cor. 10.17. 3. <hi>A little leaven leaveneth the whole lump,</hi> 1 Cor. 5.6, 11. 4. <hi>And all Scriptures are written for our learning, and example.</hi> This laſt is true, but we muſt look for right underſtanding.</p>
+            <p n="1">1. Therefore I anſwer to the firſt. 1. <hi>Achans</hi> ſin was ſecret. If you will have it parallelled; it makes Hypocrites to defile as well as profane, and then you can never be ſecure that we may come to the Sacra<g ref="char:EOLhyphen"/>ment, for there may be a ſecret <hi>Achan,</hi> to defile all. 2. It was a ſingular caſe of which God had fore<g ref="char:EOLhyphen"/>warned, <hi>Joſh.</hi> 6. with threatning; <hi>Joſhua</hi> and the go<g ref="char:EOLhyphen"/>vernours ſhould have ſearched all places and tents, which they did not. 3. And every man we know is <hi>liable to Judgements</hi> for the offence of Governors, or their neglect to ſearch out offenders. 4. Yet for all that, not every man <hi>guilty of ſin.</hi> God may and doth puniſh <hi>temporally,</hi> upon the occaſion of others Sins (as <hi>Iſrael</hi> for <hi>Davids</hi> numbring the peo<g ref="char:EOLhyphen"/>ple, of which they were not guiltie) becauſe every one hath ſin in himſelf, which is the <hi>rooted cauſe,</hi>
+               <pb n="7" facs="tcp:155292:5"/>though not the <hi>Occaſion.</hi> 5. But God never puniſh<g ref="char:EOLhyphen"/>eth <hi>ſpiritually</hi> for anothers ſin; therefore it is quite contrary to the Inference. A <hi>Civill Body</hi> may be politikely guilty by <hi>one</hi> (as in Warre, by one breaking a Truce) but in the <hi>conſcience, thouſands</hi> can<g ref="char:EOLhyphen"/>not defile one, no where, and leaſt of all in the Or<g ref="char:EOLhyphen"/>dinances of God; which is my Sanctuary, and ſo every faithfull mans.</p>
+            <p n="2">2. For the place, 1 <hi>Cor.</hi> 10.17. You both miſtake the ſenſe, and ſtretch it too far however. If my com<g ref="char:EOLhyphen"/>municating with a profane perſon make me ſpiritu<g ref="char:EOLhyphen"/>ally one body with him, then either he becomes a true member of Chriſts Body, or elſe I ceaſe to be a true member, and become a member or limb of Sathan, as he is yet. The former, I am ſure, you will not hold; nor yet the latter, becauſe ſuch an act, how ſinfull ſoever you ſuppoſe it to be, nor any act indeed, nor acts, nor any thing elſe, cannot make a true member of Chriſt to become a limb of Sa<g ref="char:EOLhyphen"/>than.</p>
+            <p>Beſides, if his guilt defile me, it is either in the nature of the ſin, and then even ſecret guilt would defile, and ſo there would be (as I ſaid be<g ref="char:EOLhyphen"/>fore) no ſecurity: or becauſe I conſent to it, which I do not; or at leaſt, conſent that he ſhould come to the Sacrament, which I do not neither. I may not forbear, becauſe God calls me as his ſervant, ſo to honour him and his Son, and to benefit my ſoul. If I be ſorry any that thruſts in is not prepared, I can do no more, nor did God ever bid any leave his Ordinances for the preſence or intruſion of a ſinner.</p>
+            <pb n="8" facs="tcp:155292:6"/>
+            <p>But I have not yet told you the meaning of the place you appeal to. The phraſe of being <hi>one bread</hi> is obſcure, and I know not whether I can give a right reaſon why it is uſed, not finding it neither cleared by Expoſitors: But the ſenſe is, That all true Chriſtians partaking together of the Sacra<g ref="char:EOLhyphen"/>ment, are <hi>one Body</hi> with Chriſt, and ſo <hi>one with ano<g ref="char:EOLhyphen"/>ther,</hi> of which their partaking of <hi>one Bread</hi> is a pledge. Hypocrites may partake outwardly, and ſo profane.; but the ſentence concerns not them, more then to tell them what they loſe while they pretend to partake of it: But even the outward partaking bindes them, and all true partakers much more, not to partake of Sathans ſacrifices, <hi>verſ.</hi> 20. And this is all the Apoſtles drift in theſe words, and not to ſignifie any Spirituall Conjuction with all that partake of that Sacrament outwardly.</p>
+            <p n="3">3. Your third place, 1 <hi>Cor.</hi> 5. ſeems moſt to your ſcope, yet comes not home to it. The words you mention <hi>verſe</hi> 6. <hi>A little leaven, leaveneth the whole lump,</hi> is a proverbiall ſpeech, and figurative, and ſo muſt not be ſtrained beyond their ſcope; That was to ſhew the neceſſity of the inceſtuous (and ſuch like perſons) <hi>excommunication,</hi> becauſe of the danger of <hi>infection</hi> by example (as <hi>one root of bitterneſſe ſpringing up, endangers to defile many, Heb.</hi> 12.15.) even of the whole multitude, who are apt to fol<g ref="char:EOLhyphen"/>low the ſame, or the like wickedneſſe. (<hi>Grex totus in agro, Unius ſcabie pcrit, &amp; porrigine porci; Uvaque conſpectâ livorem ducit ab uvâ.</hi> Horat.) not that eve<g ref="char:EOLhyphen"/>ry one would be <hi>infected,</hi> much leſſe that every one was <hi>already guilty</hi> by his ſin, even before infection,
+<pb n="9" facs="tcp:155292:6"/>but becauſe there was <hi>danger</hi> of infection, in caſe he were not <hi>puniſhed:</hi> As that, 1 <hi>Cor.</hi> 15. <hi>Evill communi<g ref="char:EOLhyphen"/>cation corrupts good manners,</hi> doth not ſhew what will certainly be, but what there is danger of; yet this ſufficeth that it ſhould be put away: So here. More then this it cannot ſignifie (unleſſe you would alſo interpret it, of making the whole Church liable to ſome outward judgment; but that will ſcarce agree to the Metaphor, and however not reach to your ſuppoſall.)</p>
+            <p>You point alſo to <hi>verſe</hi> 11. where the faithfull are forbidden <hi>ſo much as to eat</hi> with a ſcandalous bro<g ref="char:EOLhyphen"/>ther: whence you would infer (as ſome do) <hi>Much leſſe at the Lords Table.</hi> I anſwer; There can be no ſuch conſequence drawn thence: For firſt, the Apoſtle forbids not <hi>all converſe</hi> with all heathens, becauſe then they muſt go out of the <hi>world:</hi> So I ſay; not <hi>all Sacramentall communion</hi> with every wic<g ref="char:EOLhyphen"/>ked brother, becauſe then they muſt go out of the <hi>Church,</hi> and joyn with no Church in the world after a while, but make ſeparation upon ſeparation, and ſo no Communion of Saints, or participation of Sacraments at all; as experience hath ſhewed more then once, and more would, if the Separatiſts had publike liberty and room; or elſe they would re<g ref="char:EOLhyphen"/>nounce their own Principles in many caſes of pra<g ref="char:EOLhyphen"/>ctice, as in the <hi>Low-Countries</hi> of late, and at this day. But ſecondly, As in the caſe of <hi>Naturall or Civill neceſsity</hi> they might eat with ſuch. As if of the ſame Family, if together in a Ship, or in an Inne (where the diet is common, as in many other Countries) a faithful perſon was <hi>not bound to fast</hi> becauſe of them.
+<pb n="10" facs="tcp:155292:7"/>So for <hi>Spirituall neceſsity;</hi> You are <hi>not bound to ſast</hi> from your Spirituall food becauſe of them, and leave off all, or forbear the publike ſerving and honouring of God which he calls you to in the Sa<g ref="char:EOLhyphen"/>crament. They might fight together as Souldiers, work together as ſervants, lodge together, if huſ<g ref="char:EOLhyphen"/>band and wife, be friendly, if brothers and ſiſters, or kindred: But not <hi>unneceſſarily</hi> ſhew friendſhip, or entertain familiarity with thoſe that they were no otherwiſe bound to, then by the bonds of <hi>Chriſti<g ref="char:EOLhyphen"/>anity,</hi> they behaving not themſelves as <hi>Christians.</hi> So then, all that can be gathered hence toward the Sa<g ref="char:EOLhyphen"/>crament, is, <hi>That thoſe who have Authority, ſhould not admit ſuch;</hi> ſo <hi>verſ.</hi> 5. <hi>&amp;</hi> 13. But this (I ſay everlaſt<g ref="char:EOLhyphen"/>ingly) it is impoſſible every private man ſhould have alone. Chriſt bids ſuch onely <hi>tell the Church;</hi> and if they that offend <hi>hear not the Church, repute them as heathens,</hi> withdraw as much as may be (and as the Church directs) from them: But he ſaith not, <hi>If the Church heareth not you, count it Paganiſh or pro<g ref="char:EOLhyphen"/>fane;</hi> much leſſe, Forbear to worſhip me, or come to my Sacrament, as defiled or profaned by their preſence: which certainly is a matter of ſo great importance, as that there need be a clear and pe<g ref="char:EOLhyphen"/>remptory command to ſecure a conſcience refrain<g ref="char:EOLhyphen"/>ing, or elſe they will have but ſmall thanks one day from Chriſt.</p>
+            <p>
+               <note place="margin">Arguments a<g ref="char:EOLhyphen"/>gainſt this Opi<g ref="char:EOLhyphen"/>nion of the un<g ref="char:EOLhyphen"/>lawfulneſſe of Mixt Commu<g ref="char:EOLhyphen"/>nions.</note>On the contrary, ſee briefly what may further be ſaid againſt this conceit:</p>
+            <p>Firſt, It is certain Chriſt admitted <hi>Judas</hi> to the Paſſeover: And S. <hi>Luke, Chap.</hi> 22.21. telling us of Chriſts warning of <hi>Iudas</hi> his Treaſon, <hi>The hand
+<pb n="11" facs="tcp:155292:7"/>of him that betrayes me, is with me on the Table,</hi> imme<g ref="char:EOLhyphen"/>diately after the Inſtitution of the Sacrament, bids me believe he received the Lords Supper alſo. However, it is all one for the Paſſeover; Chriſt knowing him, and as man (for he deſigned him to <hi>Iohn,</hi> as he had alſo told of him generally before) yet he ſends him not out before he had eaten and communicated with them in this Sacrament, and none of his diſciples ſay, <hi>Maſter, Thou haſt told us a Sathan is amongſt us, a Traytor, ſend him out, elſe he will defile us.</hi> To know <hi>that there is ſuch an one certainly,</hi> is all one in ſenſe and effect, as to know <hi>who he is,</hi> for that matter. Say, Would you not ſtartle (upon your grounds) if one ſhould tell you, <hi>I know certainly that one of your company that is coming to the Sacrament with you is an adulterer, or a whore, and lives in ſuch wic<g ref="char:EOLhyphen"/>kedneſſe,</hi> could you chuſe but forbear? But ſo did not the diſciples.</p>
+            <p>Secondly, It is no leſſe certain there were great offenders at this time, in the Church of <hi>Corinth;</hi> ſome that made themſelves drunk at their Love-Feaſts, at the Sacrament, <hi>Chap.</hi> 11. ſome that even denied the Reſurrection, <hi>Chap.</hi> 15. and ſundry others grievous offenders, 2 <hi>Cor.</hi> 12.20, 21. Yet are they ſtill a Church, though theſe uncaſt out, and he no where blames for coming to the <hi>Lords Table</hi> becauſe of them, no not in that fifth Chapter which you mention.</p>
+            <p>Thirdly, No ſuch word of forbearing for ano<g ref="char:EOLhyphen"/>thers ſake, when he ſpeaks of right receiving, <hi>ch.</hi> 11.</p>
+            <p>Fourthly, He bids <hi>examine themſelves every one</hi> (not others) and ſo bids <hi>every one come.</hi>
+            </p>
+            <pb n="12" facs="tcp:155292:8"/>
+            <p>Fifthly, He ſaith the <hi>unworthy Communicant eats and drinks damnation</hi> (or judgement) <hi>to himſelf,</hi> not to others. Weigh theſe things well in the fear of God (as I truſt you will) and then I truſt you will ſee that God never meant to debarre his ſervants from their comfort in his Ordinances, nor excuſe them from his ſervice, for others faults. <hi>Every one</hi> (in this ſenſe) <hi>must bear his own burden, Gal.</hi> 6.5.</p>
+            <p>Sixthly, Adde hereunto, That whereas to the juſt debarring of any one from the Sacrament, there muſt go a great deal of examination often times a<g ref="char:EOLhyphen"/>bout the fact, and whether the party be indeed guil<g ref="char:EOLhyphen"/>ty; of ſome there is a great and ſtrong ſuſpition: It were a very torture to conſciences, to think, That anothers wickedneſſe, which according to the news that is brought them, is certain, or neer it, ſhould debar from Gods Ordinances, and yet there is not ſufficient proof to convince ſuch, or a neglect in o<g ref="char:EOLhyphen"/>thers to caſt him out. So one, or ſome few, ſhall <hi>ſin,</hi> and another ſhall be <hi>puniſhed,</hi> and that <hi>ſpiritually,</hi> deprived of the Sacrament, and (if I may ſo ſay with reverence) <hi>God is puniſhed by it,</hi> and Chriſt wants that honour his ſervants ſhould give him in coming to his Table.</p>
+            <p>Seventhly, Divines uſe to give three Rules to judge of Doctrines;The <hi>Glory</hi> of God, The <hi>hum<g ref="char:EOLhyphen"/>bling of man,</hi> and The <hi>Comforting</hi> of poor ſouls: If theſe ſtand for good wayes of tryall, the judgement will be on my ſide. Firſt, it is for <hi>Gods glory,</hi> that I come to worſhip him, and that others faults ſhould not keep me from performing my homage. 2. It is alſo for <hi>the humbling of man,</hi> when his goodneſſe
+<pb n="13" facs="tcp:155292:8"/>or ilneſſe makes the Ordinances of God no more, nor no leſſe effectuall to others. We abhorre the Popiſh Doctrine, <hi>That the Miniſters intention is neceſſary to the Sacrament for the Peoples right Receiving; and that if he wickedly have no intention to conſecrate it, let him ſpeak never ſo well in words of prayer, &amp;c. it is no Sacrament.</hi> This Opinion of yours is but too neer it; That even a private wicked mans formerly ſhewed wicked minde, though he behave himſelf outwardly never ſo well at the Sacrament, now defiles it to other Receivers. 3. It is greatly <hi>to my comfort,</hi> that ano<g ref="char:EOLhyphen"/>thers ſin cannot hinder me of that pledge of my Spirituall Union with Chriſt. I remember I have heard ſome malicious people threaten, <hi>To keep others from the Sacrament, becauſe themſelves would refuſe recon<g ref="char:EOLhyphen"/>ciliation.</hi> But I have taught ſuch, that their wicked<g ref="char:EOLhyphen"/>neſſe did not reach ſo far; and that if the comers did ſeek <hi>reconciliation,</hi> and offer <hi>ſatisfaction</hi> when it is fit, they ſhould be welcome. It were lamentable elſe, and I might be kept back from the Sacrament all my life when it were adminiſtred, and I called to it by the Church, to whom yet perhaps I cannot prove the others malice if they deny it; when yet as ſoon as they and I were alone, they will ſay the ſame to me again, and ſo both <hi>vent</hi> and <hi>conceal</hi> their malice. If their wickedneſſe thus known defile, wo is me to be Spiritually <hi>defiled,</hi> and deprived of the Sacrament without my fault. If a whole town were <hi>Traytors,</hi> a King that knows one to bear him <hi>a loyall heart,</hi> would accept him, notwithſtanding the enmity of all the reſt: And ſhall <hi>one Traytor,</hi> joning in an outward act of homage, make all a <hi>company of
+<pb n="14" facs="tcp:155292:9"/>loyall ſubjects</hi> offenders even in doing their homage<g ref="char:punc">▪</g> It cannot be. <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> If now you ſay, <hi>Being known a Tray<g ref="char:EOLhyphen"/>tor, he ſhould now be thruſt out of loyall ſubjects company<g ref="char:punc">▪</g>
+               </hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> He ſhould; But by thoſe that have authori<g ref="char:EOLhyphen"/>ty: If they neglect it, they indeed offend, but yet this diſparageth not the ſervice of thoſe that can<g ref="char:EOLhyphen"/>not help it: Unleſſe the King had expreſſely ſaid, <hi>I will rather have none of you come at all, then that one Traytor come among you:</hi> Which (as I touched be<g ref="char:EOLhyphen"/>fore) <hi>Christ</hi> our King is ſo far from ſaying, that he admitted a <hi>Traytor</hi> to the like, to the ſame homage, when he firſt ordained it. In ſum then, Chriſt ha<g ref="char:EOLhyphen"/>ving required the performance of ſuch a ſervice, not onely as a means for our own good and com<g ref="char:EOLhyphen"/>fort, but alſo as a duty of homage to him, <hi>to ſhew forth his death till he come,</hi> we may not dare omit this ſervice, this homage, in ſuch caſes as wherein we have not a clear diſpenſation from God for not per<g ref="char:EOLhyphen"/>forming it; which diſpenſation can never be ſhewn by any private perſon, in caſe onely that thoſe who have power ſhall neg<g ref="char:EOLhyphen"/>lect to keep back ſome unworthy COMMUNICANT.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
